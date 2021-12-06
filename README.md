@@ -1,4 +1,13 @@
 # Alpaca OAuth App
+
+No backend needed!
+
+A simple app that allows users to view market data in colorful interactive candlestick charts.
+
+In the future:
+* Trading
+* Portfolio Analytics
+
 ![landing_page](/landing_page_screenshot.png)
 ![dashboard](/dashboard_screenshot.png)
 
