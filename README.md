@@ -1,5 +1,6 @@
 # Alpaca OAuth App
-![alt text](/landing_page_screenshot.png)
+![landing_page](/landing_page_screenshot.png)
+![dashboard](/dashboard_screenshot.png)
 
 # Getting Started with Create React App
 
