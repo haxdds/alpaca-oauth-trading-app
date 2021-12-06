@@ -1,6 +1,6 @@
 # Alpaca OAuth App
 
-No backend needed!
+No backend needed! Client only, fully functional stateless trading app, using OAuth.
 
 A simple app that allows users to view market data in colorful interactive candlestick charts.
 
