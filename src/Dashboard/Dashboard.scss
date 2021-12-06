@@ -1,0 +1,32 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  top: 10vh;
+  height: 100vh;
+
+  justify-content: center;
+  margin: 0 auto;
+  background-color: #fef7d0;
+
+  .chart {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+
+    .chart-symbol {
+      margin-left: 5px;
+      margin-top: 2px;
+    }
+  }
+
+  .form {
+    margin-top: 15vh;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10vh;
+
+    input {
+      text-transform: uppercase
+    }
+  }
+}
